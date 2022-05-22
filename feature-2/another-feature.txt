@@ -1,1 +1,3 @@
 another-feature.txt created in feature-2.
+
+one more feature change in feature-2 branch.
